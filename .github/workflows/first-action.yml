@@ -1,9 +1,9 @@
 name: First Wokflow
-on: workflow dispatch
+on: Workflow_dispatch
  jobs
-  first-job:
-    runs-on:ubuntu-latest:
-    steps:
+   first-job;
+     runs-on:ubuntu-latest;
+    steps;
       -name:Print greeting
        run:echo "hello world"
       -name:first goodbye

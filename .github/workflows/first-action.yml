@@ -1,6 +1,6 @@
 name: First Wokflow
 on: workflow dispatch
-jobs
+ jobs
   first-job:
     runs-on:ubuntu-latest:
     steps:
